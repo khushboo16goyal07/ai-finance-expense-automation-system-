@@ -70,22 +70,21 @@ Finance-Automation-Project/
 ## Screenshots
 
 ### 1. Google Form Interface
-![Google Form](screenshots/form_view.png)
+"C:\Users\khush\OneDrive\Desktop\automation\google_form.png"
 
 ---
 
 ### 2. Google Sheet Data Capture
-![Google Sheet](screenshots/sheet_data.png)
 
----
+---"C:\Users\khush\OneDrive\Desktop\automation\google_sheet.png"
 
 ### 3. n8n Workflow Architecture
-![n8n Workflow](screenshots/workflow_diagram.png)
+"C:\Users\khush\OneDrive\Desktop\automation\n8n_architecture.png"
 
 ---
 
 ### 4. Email Notification Output
-![Email Notification](screenshots/email_notification.png)
+"C:\Users\khush\OneDrive\Desktop\automation\email_output.png"
 
 ---
 
